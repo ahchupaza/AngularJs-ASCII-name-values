@@ -1,3 +1,3 @@
-# AngularJs-project-1
+# Angular-Js-ASCII-Name-Values
 
-An AngularJs web App that calculates the total ASCII value of a word or name.
+A simple AngularJs web App to calculate the total ASCII value of a word or name.
